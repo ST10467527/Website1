@@ -1,6 +1,5 @@
 The Book Nook Website
 Overview
-
 The Book Nook is a hybrid bookstore in Johannesburg that combines an online store with a community-focused cultural hub. The website was developed to expand the store’s reach, improve customer convenience, and host literary events such as book clubs, workshops, and author signings.
 
 This project implements a basic HTML and CSS website with multiple pages, clean navigation, and responsive design principles.
