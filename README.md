@@ -1,19 +1,138 @@
-Website Proposal
-Bokang Moloi ST10467527
-Project Overview – The Book Nook Website
-The Book Nook is an independent bookstore in Johannesburg, South Africa, that combines retail, community engagement, and cultural experiences. The goal of this project is to design and develop a modern, responsive, and user-friendly website that serves as both an online store and a hub for literary events.
+The Book Nook Website
+Overview
 
-Key objectives include:
-Expanding the bookstore’s reach nationwide through e-commerce.
-Enhancing customer convenience with online browsing, ordering, and event registration.
-Promoting community engagement via blogs, book clubs, workshops, and author events.
-Strengthening brand identity and competitiveness against larger retailers.
+The Book Nook is a hybrid bookstore in Johannesburg that combines an online store with a community-focused cultural hub. The website was developed to expand the store’s reach, improve customer convenience, and host literary events such as book clubs, workshops, and author signings.
 
-The website includes:
-A homepage highlighting featured books, events, and promotions.
-Dedicated pages for About Us, Services/Products, Blog/News, Contact, and a new Reviews & Policy page.
-User accounts, accessibility features, and secure online transactions.
-Consistent navigation, responsive design, and SEO-friendly content structure.
+This project implements a basic HTML and CSS website with multiple pages, clean navigation, and responsive design principles.
 
-The project emphasizes simplicity, usability, and community focus, ensuring that visitors enjoy a seamless online experience while maintaining the charm and personal touch of The Book Nook.
+Project Structure
+BookNook/
+│
+├── Website.html          # Home page
+├── Second Page.html      # About Us page
+├── services.html         # Products/Services page
+├── blog.html             # Blog/News page
+├── contact.html          # Contact page
+├── reviews.html          # Reviews & Policy (T&C, Privacy, FAQ, Reviews)
 
+
+Website Pages
+
+Home (Website.html) – Welcomes visitors with a banner, featured books, and upcoming events.
+
+About Us (Second Page.html) – Background of The Book Nook, mission, and vision.
+
+Services/Products (services.html) – Book categories and store offerings.
+
+Blog/News (blog.html) – Articles, reviews, author features.
+
+Contact Us (contact.html) – Contact form, location, and map.
+
+Reviews & Policy (reviews.html) – Terms & Conditions, Privacy Policy, FAQs, and customer reviews.
+
+Features
+1. Home Page (index.html)
+
+Key Features:
+
+Header & Navigation Bar – Provides quick access to all other pages.
+
+Hero Banner – Large welcome image or banner introducing The Book Nook.
+
+Featured Books Section – Highlights popular or new arrivals.
+
+Upcoming Events – Short preview of book clubs, workshops, or author meet-ups.
+
+Footer – Store location, contact info, and social media links.
+
+2. About Us Page (about.html)
+
+Key Features:
+
+Store Overview – A summary of The Book Nook’s history and purpose.
+
+Mission & Vision – Explains community values and goals.
+
+Team Introduction – Short bios or images of staff/owners (optional).
+
+Community Role – Emphasizes how the bookstore connects with local culture.
+
+3. Services / Products Page (services.html)
+
+Key Features:
+
+Book Categories – Organized display of available genres (fiction, academic, children’s, etc.).
+
+Special Services – E.g., book pre-orders, gift wrapping, delivery.
+
+Membership/Discount Info – Highlights loyalty programs or student discounts.
+
+Call-to-Action (CTA) – Encourages visitors to contact or visit the physical store.
+
+4. Blog / News Page (blog.html)
+
+Key Features:
+
+Blog Posts – Articles on new books, reviews, and literary trends.
+
+Author Spotlights – Introductions to authors with upcoming signings.
+
+Event Announcements – Updates on book clubs, launches, and workshops.
+
+Comment Placeholder – Space for user interaction (future expansion).
+
+5. Contact Us Page (contact.html)
+
+Key Features:
+
+Contact Form – For inquiries (name, email, message fields).
+
+Store Address & Phone Number – Essential customer support info.
+
+Google Maps Placeholder – Store location for easy directions.
+
+Business Hours – Clear information on when the store is open.
+
+6. Reviews & Policy Page (reviews.html)
+
+Key Features:
+
+Terms & Conditions (T&C) – Rules for purchases and site use.
+
+Privacy Policy – Outlines how customer data is handled.
+
+FAQ Section – Answers common questions (shipping, returns, etc.).
+
+Customer Reviews – Space for testimonials and feedback.
+
+Development Timeline
+
+Weeks 1–2: Planning and sitemap/wireframes.
+
+Weeks 3–4: Basic HTML structure for all pages.
+
+Weeks 5–6: Apply CSS styling and responsiveness.
+
+Weeks 7–8: Content population and testing.
+
+Week 9: Final review and submission.
+
+Screenshots
+<img width="987" height="664" alt="site map" src="https://github.com/user-attachments/assets/093f5316-a126-4c57-911f-c693d2afe697" />
+
+
+
+References
+
+Statista. (2024). Book market in South Africa – Statistics & Facts. Retrieved from https://www.statista.com
+
+WCAG 2.1 Accessibility Guidelines. W3C. Retrieved from https://www.w3.org/WAI/standards-guidelines/wcag/
+
+Moz. (2024). Beginner’s Guide to SEO. Retrieved from https://moz.com/beginners-guide-to-seo
+
+PayFast. (2024). South African Payment Gateway. Retrieved from https://payfast.io
+
+Author
+
+Developed by [Bokang Moloi ST10467527]
+For IIE IPRG5111 Assignment Project – 2025
