@@ -117,18 +117,50 @@ Weeks 7–8: Content population and testing.
 
 Week 9: Final review and submission.
 
-Screenshots
+Site map
 <img width="987" height="664" alt="site map" src="https://github.com/user-attachments/assets/093f5316-a126-4c57-911f-c693d2afe697" />
 
 
 
 References
 
-Statista. (2024). Book market in South Africa – Statistics & Facts. Retrieved from https://www.statista.com
+References  
 
-WCAG 2.1 Accessibility Guidelines. W3C. Retrieved from https://www.w3.org/WAI/standards-guidelines/wcag/
+Website & Tools References: 
 
-Moz. (2024). Beginner’s Guide to SEO. Retrieved from https://moz.com/beginners-guide-to-seo
+Figma. (n.d.). Figma: The collaborative interface design tool. Retrieved August 26, 2025, from https://www.figma.com 
+
+GoDaddy. (n.d.). Domain registration and hosting services. Retrieved August 26, 2025, from https://www.godaddy.com 
+
+Xneelo. (n.d.). Web hosting services. Retrieved August 26, 2025, from https://www.xneelo.co.za 
+
+SiteGround. (n.d.). Web hosting and domain services. Retrieved August 26, 2025, from https://www.siteground.com 
+
+Google. (n.d.). Google Analytics. Retrieved August 26, 2025, from https://analytics.google.com 
+
+Content References: 
+
+Smith, J. (2023). The history of bookstores: From physical shelves to online libraries. Book World Press. 
+
+Jones, L. (2022). Top 10 online bookstore strategies for 2025. Digital Retail Insights. 
+
+Freepik. (n.d.). Stock images for commercial use. Retrieved August 26, 2025, from https://www.freepik.com 
+
+SEO & Marketing References: 
+
+Moz. (n.d.). Beginner’s guide to SEO. Retrieved August 26, 2025, from https://moz.com/beginners-guide-to-seo 
+
+Neil Patel. (n.d.). SEO tips for small businesses. Retrieved August 26, 2025, from https://neilpatel.com 
+
+Additional References 
+
+W3Schools. (n.d.). HTML Tutorial. Retrieved August 26, 2025, from https://www.w3schools.com/html/ 
+
+MDN Web Docs. (n.d.). HTML Reference. Retrieved August 26, 2025, from https://developer.mozilla.org/en-US/docs/Web/HTML 
+
+https://thebooknook.co.za/?srsltid=AfmBOoplsT89cr1jrYK4RItEvecMTMo-Zq0LkP9AGmWuvBWUSKEOBte6
+
+ 
 
 PayFast. (2024). South African Payment Gateway. Retrieved from https://payfast.io
 
