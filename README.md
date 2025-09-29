@@ -168,6 +168,9 @@ Folder structure has changed per request
 CSS ADDED FOR STYLING 
 Chatgpt used for css code improvements and html improvements 
 
+https://github.com/ST10467527/Website1
+NB Folder could not be pushed on to git hub 
+indivual files were added on the repository
 
 
 
