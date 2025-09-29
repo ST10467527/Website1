@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Shop — The Book Nook</title>
+    <meta
+      name="description"
+      content="Browse The Book Nook's collections: fiction, kids, local authors, and bookish merchandise."
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a href="index.html" class="brand">
+          <div class="logo">BN</div>
+          <div>
+            <h1>The Book Nook</h1>
+            <p>Shop</p>
+          </div>
+        </a>
+        <div style="color: #fff">Secure checkout • Local delivery</div>
+      </div>
+      <nav class="main-nav">
+        <div class="nav-inner container">
+          <a href="index.html">Home</a>
+          <a href="about.html">About</a>
+          <a href="products.html" aria-current="page">Shop</a>
+          <a href="events.html">Events</a>
+          <a href="contact.html">Contact</a>
+        </div>
+      </nav>
+    </header>
+
+    <main class="container">
+      <nav class="breadcrumbs">Home › Shop</nav>
+
+      <section class="section" aria-label="Search and filters">
+        <h3>Find a book</h3>
+        <div style="display: flex; gap: 10px; flex-wrap: wrap">
+          <input type="search" placeholder="Search by title, author..." />
+          <select aria-label="Category">
+            <option>All Categories</option>
+            <option>Fiction</option>
+            <option>Non-fiction</option>
+            <option>Kids</option>
+            <option>Local Authors</option>
+          </select>
+          <select aria-label="Price">
+            <option>Sort: Popular</option>
+            <option>Price: Low to High</option>
+            <option>Price: High to Low</option>
+          </select>
+          <button class="btn">Apply</button>
+        </div>
+      </section>
+
+      <section class="section" aria-labelledby="collections">
+        <h3 id="collections">Collections</h3>
+        <div class="products-grid">
+          <article class="card">
+            <img src="images/book4.jpg" alt="Fiction: The Quiet River" />
+            <h4>The Quiet River</h4>
+            <p class="meta">Fiction • 320 pages • Paperback</p>
+            <p class="price">R210.00</p>
+            <p><a class="btn" href="#">Add to cart</a></p>
+          </article>
+
+          <article class="card">
+            <img src="images/book5.jpg" alt="Kids: Little Stars" />
+            <h4>Little Stars</h4>
+            <p class="meta">Children’s picture book • ages 3–7</p>
+            <p class="price">R135.00</p>
+            <p><a class="btn" href="#">Add to cart</a></p>
+          </article>
+
+          <article class="card">
+            <img src="images/book6.jpg" alt="Local author: Homegrown Tales" />
+            <h4>Homegrown Tales</h4>
+            <p class="meta">Local authors anthology</p>
+            <p class="price">R179.00</p>
+            <p><a class="btn" href="#">Add to cart</a></p>
+          </article>
+
+          <article class="card">
+            <img src="images/mug.jpg" alt="Mug: Book Nook Mug" />
+            <h4>Book Nook Mug</h4>
+            <p class="meta">Ceramic 350ml • Microwave safe</p>
+            <p class="price">R95.00</p>
+            <p><a class="btn" href="#">Add to cart</a></p>
+          </article>
+        </div>
+      </section>
+
+      <section class="section" aria-labelledby="bestsellers">
+        <h3 id="bestsellers">Bestsellers</h3>
+        <div class="products-grid">
+          <div class="card">
+            <img src="images/book1.jpg" alt="Book: Bestseller 1" />
+            <h4>Whispers of the Past</h4>
+            <p class="meta">Top choice this month</p>
+            <p class="price">R199.00</p>
+            <p><a class="btn" href="#">View</a></p>
+          </div>
+          <div class="card">
+            <img src="images/book2.jpg" alt="Book: Bestseller 2" />
+            <h4>Journey's End</h4>
+            <p class="meta">Critically acclaimed</p>
+            <p class="price">R229.00</p>
+            <p><a class="btn" href="#">View</a></p>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <div class="footer-col">
+          <h5>Help</h5>
+          <p class="meta">Payments • Delivery • Returns</p>
+        </div>
+        <div class="footer-col">
+          <h5>Contact</h5>
+          <p class="meta">info@booknook.co.za</p>
+        </div>
+        <div class="footer-col">
+          <h5>Social</h5>
+          <p><a href="#" style="color: #fff">Instagram</a></p>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

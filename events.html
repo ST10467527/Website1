@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Events — The Book Nook</title>
+    <meta
+      name="description"
+      content="Events and community activities at The Book Nook — launches, storytime and workshops."
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a href="index.html" class="brand"
+          ><div class="logo">BN</div>
+          <div><h1>The Book Nook</h1></div></a
+        >
+        <div style="color: #fff">Events & community</div>
+      </div>
+      <nav class="main-nav">
+        <div class="nav-inner container">
+          <a href="index.html">Home</a>
+          <a href="about.html">About</a>
+          <a href="products.html">Shop</a>
+          <a href="events.html" aria-current="page">Events</a>
+          <a href="contact.html">Contact</a>
+        </div>
+      </nav>
+    </header>
+
+    <main class="container">
+      <nav class="breadcrumbs">Home › Events</nav>
+
+      <section class="section" aria-labelledby="upcoming">
+        <h2 id="upcoming">Upcoming events</h2>
+        <ul class="events-list">
+          <li>
+            <div style="flex: 1">
+              <strong>Winds of Change — Book Launch</strong>
+              <div class="meta">15 Oct 2025 • 18:00 • Tickets R50</div>
+              <p class="meta" style="margin-top: 6px">
+                Meet the author, Q&A and signing. Limited seats.
+              </p>
+            </div>
+            <div>
+              <a class="btn" href="#rsvp-winds" aria-controls="rsvp-winds"
+                >RSVP</a
+              >
+            </div>
+          </li>
+
+          <li>
+            <div style="flex: 1">
+              <strong>Kids Storytime</strong>
+              <div class="meta">Every Saturday • 10:00 • Free</div>
+              <p class="meta" style="margin-top: 6px">
+                Songs, stories and a friendly reading circle for ages 3–7.
+              </p>
+            </div>
+            <div><a class="btn" href="#rsvp-kids">RSVP</a></div>
+          </li>
+
+          <li>
+            <div style="flex: 1">
+              <strong>Poetry Night</strong>
+              <div class="meta">Last Friday of each month • 18:00</div>
+              <p class="meta">Local poets and open mic. Donations welcome.</p>
+            </div>
+            <div><a class="btn" href="#rsvp-poetry">RSVP</a></div>
+          </li>
+        </ul>
+      </section>
+
+      <!-- RSVP placeholder (embed Google Form here in final site) -->
+      <section id="rsvp-winds" class="section" aria-labelledby="rsvp-title">
+        <h3 id="rsvp-title">RSVP — Winds of Change</h3>
+        <p class="meta">
+          Please fill the RSVP form to reserve your seat. (Demo placeholder —
+          embed Google Form for live site.)
+        </p>
+        <form action="#" method="post">
+          <input type="text" placeholder="Your name" required />
+          <input type="email" placeholder="Email" required />
+          <input type="tel" placeholder="Phone (optional)" />
+          <button class="btn" type="submit">Reserve</button>
+        </form>
+      </section>
+
+      <!-- Past events gallery -->
+      <section class="section" aria-labelledby="past-events">
+        <h3 id="past-events">Past events highlights</h3>
+        <div class="products-grid">
+          <div class="card">
+            <img src="images/event1.jpg" alt="Author reading" />
+            <p class="meta">Author reading — July 2025</p>
+          </div>
+          <div class="card">
+            <img src="images/event2.jpg" alt="Kids storytime" />
+            <p class="meta">Kids storytime — August 2025</p>
+          </div>
+          <div class="card">
+            <img src="images/event3.jpg" alt="Poetry night" />
+            <p class="meta">Poetry night — September 2025</p>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <div class="footer-col">
+          <h5>Events</h5>
+          <p class="meta">Join our mailing list for updates</p>
+        </div>
+        <div class="footer-col">
+          <h5>Contact</h5>
+          <p class="meta">events@booknook.co.za</p>
+        </div>
+        <div class="footer-col">
+          <h5>Help</h5>
+          <p class="meta">Accessibility • FAQs</p>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
