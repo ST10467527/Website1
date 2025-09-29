@@ -159,7 +159,17 @@ MDN Web Docs. (n.d.). HTML Reference. Retrieved August 26, 2025, from https://de
 
 https://thebooknook.co.za/?srsltid=AfmBOoplsT89cr1jrYK4RItEvecMTMo-Zq0LkP9AGmWuvBWUSKEOBte6
 
- 
+Formative 2
+Folder structure has changed per request 
+<img width="1207" height="482" alt="Screenshot 2025-09-29 234449" src="https://github.com/user-attachments/assets/6d5b619d-ff49-4b47-8b45-676459273413" />
+<img width="1392" height="715" alt="Screenshot 2025-09-29 234520" src="https://github.com/user-attachments/assets/96c6c0b7-d8a0-48d2-86c2-daa08728d3b2" />
+<img width="1218" height="531" alt="Screenshot 2025-09-29 234431" src="https://github.com/user-attachments/assets/2b6cfc8b-fcfd-426e-bac0-a14a9a224b40" />
+
+CSS ADDED FOR STYLING 
+Chatgpt used for css code improvements and html improvements 
+
+
+
 
 PayFast. (2024). South African Payment Gateway. Retrieved from https://payfast.io
 
